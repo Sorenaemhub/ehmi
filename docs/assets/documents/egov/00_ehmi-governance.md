@@ -15,6 +15,7 @@ Hvis en aktør ønsker at tilslutte sig eDelivery Sundhedsdomænet, er første s
 I det følgende beskrives de aftalemæssige og tekniske trin for tilslutning til eDelivery Sundhedsdomænet.
 Beskrivelsen indledes med en kort introduktion til eDelivery Sundhedsdomænet i relation til de forskellige roller, en aktør kan have.
 
+# Forskellige roller i eDelivery Sundhedsdomænet
 
 # EHMI Governance domain level
 
