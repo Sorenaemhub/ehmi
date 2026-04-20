@@ -1,3 +1,4 @@
+test 2
 # Startpakke for eDelivery Sundhedsdomænet – pilotprojekt
 eDelivery Sundhedsdomænet har til formål at etablere, udvikle og drive en infrastruktur til udveksling af kliniske meddelelser inden for sundhedssektoren samt til og fra andre domæner uden for sundhedsområdet.
 
